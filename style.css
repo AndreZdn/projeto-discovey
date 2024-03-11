@@ -49,7 +49,8 @@ body * {
 #container {
    /* border: 1px solid green;
      define o tamanho da borda */
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     /* define a largura */
     /*height: 712px;*/
     /* define a altura */
